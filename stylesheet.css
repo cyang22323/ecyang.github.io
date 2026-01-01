@@ -2,7 +2,7 @@
 selectors). */
 body {
   margin: 25px;
-  background-color: rgb(240,240,240);
+  background-color: rgb(31,31,31);
   font-family: arial, sans-serif;
   font-size: 14px;
 }
@@ -19,3 +19,10 @@ h1 {
 
 /* Applies to the element with <... id="someid"> specified. */
 #someid { color: green; }
+
+/* Applies to all images. */
+img {
+width: 400px;
+height: 300px;
+display: flex;
+}
