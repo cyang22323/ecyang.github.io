@@ -5,6 +5,7 @@ body {
   background-color: rgb(31,31,31);
   font-family: arial, sans-serif;
   font-size: 14px;
+  color: rgb(240,240,240);
 }
 
 /* Applies to all <h1>...</h1> elements. */
