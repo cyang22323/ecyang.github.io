@@ -31,6 +31,6 @@ display: flex;
 /* Organization for the top of the page-- horizontally aligned content */
 .top {
 display: flex;
-justify-container: center;
+justify-content: center;
 
 }
