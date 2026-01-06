@@ -27,3 +27,10 @@ width: 400px;
 height: 300px;
 display: flex;
 }
+
+/* Organization for the top of the page-- horizontally aligned content */
+.top {
+display: flex;
+justify-container: center;
+
+}
