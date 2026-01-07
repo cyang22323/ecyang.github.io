@@ -30,7 +30,7 @@ display: flex;
 
 /* Organization for the top of the page-- horizontally aligned content */
 .top {
-display: flex;
+display: flex-start;
 justify-content: flex-start;
 
 }
@@ -38,7 +38,7 @@ justify-content: flex-start;
 .menu {
 width: 10%;
 background-color: rgb(51,51,51);
-display: flex;
+display: flex-end;
 border-width: 1px;
 border-color: rgb(240,240,240);
 justify-content: flex-end;
