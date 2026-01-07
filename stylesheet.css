@@ -31,18 +31,18 @@ display: flex;
 /* Organization for the top of the page-- horizontally aligned content */
 .top {
 display: flex;
-justify-content: left;
+justify-content: flex-start;
 
 }
 
 .menu {
 width: 10%;
-background-color: gray;
-display: flex-right;
-justify-content: center;
+background-color: rgb(51,51,51);
+display: flex;
 border-width: 1px;
-border-color: white;
-justify-content: right;
+border-color: rgb(240,240,240);
+justify-content: flex-end;
+margin-left: 5px;
+margin-right: 5px;
 
-  
 }
