@@ -31,7 +31,7 @@ display: flex;
 /* Organization for the top of the page-- horizontally aligned content */
 .top {
 display: flex;
-justify-content: center;
+justify-content: left;
 
 }
 
@@ -42,6 +42,7 @@ display: flex-right;
 justify-content: center;
 border-width: 1px;
 border-color: white;
+justify-content: right;
 
   
 }
