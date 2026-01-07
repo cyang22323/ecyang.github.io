@@ -37,8 +37,11 @@ justify-content: center;
 
 .menu {
 width: 10%;
-background-color: #bbb;
-display: flex;
+background-color: gray;
+display: flex-right;
 justify-content: center;
+border-width: 1px;
+border-color: white;
+
   
 }
