@@ -35,9 +35,10 @@ justify-content: center;
 
 }
 
-.class {
+.menu {
 width: 10%;
 background-color: #bbb;
-
+display: flex;
+justify-content: center;
   
 }
